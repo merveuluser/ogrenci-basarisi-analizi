@@ -1,0 +1,17 @@
+Ders,Senaryo,Model,Doğruluk,Makro F1
+Matematik,"A: G1, G2 dahil",Çoğunluk sınıfı (temel),0.671 ± 0.004,0.401 ± 0.001
+Matematik,"A: G1, G2 dahil",Lojistik regresyon,0.929 ± 0.040,0.919 ± 0.047
+Matematik,"A: G1, G2 dahil",Karar ağacı (derinlik 4),0.891 ± 0.040,0.876 ± 0.045
+Matematik,"A: G1, G2 dahil",Rastgele orman,0.909 ± 0.043,0.895 ± 0.053
+Matematik,"B: G1, G2 hariç",Çoğunluk sınıfı (temel),0.671 ± 0.004,0.401 ± 0.001
+Matematik,"B: G1, G2 hariç",Lojistik regresyon,0.673 ± 0.081,0.588 ± 0.092
+Matematik,"B: G1, G2 hariç",Karar ağacı (derinlik 4),0.694 ± 0.053,0.615 ± 0.059
+Matematik,"B: G1, G2 hariç",Rastgele orman,0.694 ± 0.028,0.568 ± 0.054
+Portekizce,"A: G1, G2 dahil",Çoğunluk sınıfı (temel),0.846 ± 0.001,0.458 ± 0.000
+Portekizce,"A: G1, G2 dahil",Lojistik regresyon,0.929 ± 0.022,0.857 ± 0.046
+Portekizce,"A: G1, G2 dahil",Karar ağacı (derinlik 4),0.921 ± 0.017,0.839 ± 0.046
+Portekizce,"A: G1, G2 dahil",Rastgele orman,0.920 ± 0.015,0.822 ± 0.050
+Portekizce,"B: G1, G2 hariç",Çoğunluk sınıfı (temel),0.846 ± 0.001,0.458 ± 0.000
+Portekizce,"B: G1, G2 hariç",Lojistik regresyon,0.849 ± 0.027,0.634 ± 0.083
+Portekizce,"B: G1, G2 hariç",Karar ağacı (derinlik 4),0.838 ± 0.029,0.644 ± 0.099
+Portekizce,"B: G1, G2 hariç",Rastgele orman,0.851 ± 0.020,0.568 ± 0.088
